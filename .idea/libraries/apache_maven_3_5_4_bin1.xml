@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="apache-maven-3.5.4-bin1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/bin/apache-maven-3.5.4-bin.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
